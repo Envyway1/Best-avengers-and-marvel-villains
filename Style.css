@@ -1,0 +1,20 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: red;
+}
+p{
+    text-align: center;
+    font-size: 25px;
+    color:white;
+    padding: 20px;
+}
+img{
+    opacity: 0.2;
+    border: 5px solid whitesmoke;
+}
+img:hover{
+    opacity:1;
+}
+p:hover{
+    font-size: 40px;
+}
