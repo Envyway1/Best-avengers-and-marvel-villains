@@ -1,20 +1,39 @@
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: red;
+    background-color:navy;
 }
 p{
     text-align: center;
     font-size: 25px;
     color:white;
     padding: 20px;
+    float: right;
 }
 img{
     opacity: 0.2;
     border: 5px solid whitesmoke;
+    float: left;
 }
 img:hover{
     opacity:1;
 }
-p:hover{
-    font-size: 40px;
+.loki{
+    font-size: 10px;
+    float:right;
 }
+
+.altr{
+    font-size: 10px;
+    float:right;
+}
+.hela{
+   font-size: 10px;
+    float:right;  
+}
+.tanos{
+     font-size: 10px;
+    float:right;
+}
+
+
+
