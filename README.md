@@ -1,6 +1,8 @@
 <html>
   <head>
-    
+    <title>Лучшие мстители и злодеи marvel</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
     <h1>Лучшие мстители и злодеи marvel</h1>
         <p>Самые лучшие злодеи вселенной Marvel</p>
         <p>ЛОКИ</p>
